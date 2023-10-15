@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/manim/men-be-nice/media/videos/vectoraddition/1080p60/partial_movie_files/VectorAddition/3977891868_2609050782_223132457.mp4'
+file 'file:/manim/men-be-nice/media/videos/vectoraddition/1080p60/partial_movie_files/VectorAddition/2852726489_947539943_905587201.mp4'
+file 'file:/manim/men-be-nice/media/videos/vectoraddition/1080p60/partial_movie_files/VectorAddition/2852726489_1185433908_519923760.mp4'
+file 'file:/manim/men-be-nice/media/videos/vectoraddition/1080p60/partial_movie_files/VectorAddition/2852726489_3755759114_3568895116.mp4'
+file 'file:/manim/men-be-nice/media/videos/vectoraddition/1080p60/partial_movie_files/VectorAddition/2852726489_2632446154_182663261.mp4'
+file 'file:/manim/men-be-nice/media/videos/vectoraddition/1080p60/partial_movie_files/VectorAddition/2852726489_2263737309_1570070732.mp4'
+file 'file:/manim/men-be-nice/media/videos/vectoraddition/1080p60/partial_movie_files/VectorAddition/2852726489_3625428010_2697163178.mp4'

@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/manimuser/men-be-nice/media/videos/scene3/480p15/partial_movie_files/AreaUnderCurveVisualization/1185818338_4070346915_223132457.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene3/480p15/partial_movie_files/AreaUnderCurveVisualization/624642324_1310969723_511371387.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene3/480p15/partial_movie_files/AreaUnderCurveVisualization/624642324_229896448_1978843174.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene3/480p15/partial_movie_files/AreaUnderCurveVisualization/624642324_3025233851_3878056262.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene3/480p15/partial_movie_files/AreaUnderCurveVisualization/624642324_229896448_2194367560.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene3/480p15/partial_movie_files/AreaUnderCurveVisualization/624642324_3263978590_3648242408.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene3/480p15/partial_movie_files/AreaUnderCurveVisualization/624642324_3341001878_1600170608.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene3/480p15/partial_movie_files/AreaUnderCurveVisualization/624642324_2999291583_402825791.mp4'

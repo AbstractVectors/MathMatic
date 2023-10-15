@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/manimuser/men-be-nice/media/videos/scene2/1080p60/partial_movie_files/TangentLineProblem/3977891868_4146119976_223132457.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene2/1080p60/partial_movie_files/TangentLineProblem/2852726489_4281918040_4093674060.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene2/1080p60/partial_movie_files/TangentLineProblem/2852726489_1384300355_3497305098.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene2/1080p60/partial_movie_files/TangentLineProblem/2852726489_3625428010_474342172.mp4'

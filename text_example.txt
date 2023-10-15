@@ -1,0 +1,90 @@
+The first major problem in calculus was the tangent line problem. We now turn to the second major problem in calculus, the area problem. We saw that the derivative solved the tangent line problem and it turns out that the anti-derivative solves the area problem.
+
+The Area Problem
+Let f(x) be a non-negative, continuous function on the interval [a,b]. The area problem asks us to find the area under the graph of y=f(x) over the interval [a,b].
+
+
+To solve this problem, we begin by approximating the area under the curve using rectangles. The sum of the areas of these rectangles is called a Riemann Sum.
+
+To find the exact area under the curve we will need to use infinitely many rectangles. This will lead us into the next section on the Definite Integral. For now, we begin with a special notation that will allow us to write the sum of the areas of many rectangles in a compact form.
+
+Summation Notation
+In mathematics, the symbol ∑
+ is used to denote summation.
+
+Summation Notation
+∑i=1n ai=a1+a2+⋯+an.
+The parameter i
+ is called the index of summation and it begins at the indicated value, i=1
+ in this case; and it increments by one unit until it reaches the terminal value (in this case, n
+).
+
+
+example 1
+∑i=14 (i2+3)=4+7+12+19=42.
+example 2
+∑i=27 (2i+5)=9+11+13+15+17+19=84.
+
+Special Sums Sums of powers of i
+:
+1)
+The sum of the first n
+ whole numbers:
+∑i=1n i=1+2+3+⋯+n=n(n+1)2
+2)
+The sum of the first n
+ perfect squares:
+∑i=1n i2=12+22+32+⋯+n2=n(n+1)(2n+1)6
+3)
+The sum of the first n
+ perfect cubes:
+∑i=1n i3=13+23+33+⋯+n3=n2(n+1)24
+
+
+
+Notice that the sum of the first n
+ perfect cubes is the square of the sum of the first n
+ whole numbers!
+
+example 3 Find the value of the sum:
+∑i=512 i2.
+This sum can be found by rewriting it as a difference of two sums and using formula (2), above, twice:
+∑i=512 i2=∑i=112 i2−∑i=14 i2=12⋅13⋅256−4⋅5⋅96=620.
+
+
+Riemann Sums
+Let f(x) be defined on a closed interval [a,b]. Partition the interval [a,b] into n sub-intervals, each of width Δx=b−an. Denote the endpoints of the sub-intervals by xi, so that xi=a+i⋅Δx, where i=0,1,2,…,n. (Note that x0=a and xn=b.)
+
+
+To create rectangles under the curve, we next select sample points- one in each sub-interval so as to space them out roughly evenly over the interval [a,b]. The sample points are denoted by an asterisk, like x∗4 for the fourth sample point and x∗i for the i-th sample point.
+
+
+In general, the i-th sample point, x∗i lies in the interval [xi−1,xi]. The sample points are used to determine the heights of the rectangles used in our Riemann Sum. Specifically, the height of the first rectangle will be f(x∗1), the height of the second rectangle will be f(x∗2) and so on until we reach the n-th and final rectangle, whose height will be f(x∗n).
+
+
+example 5
+Find the Riemann Sum for the curve f(x)=e−x
+ over the interval [−1,1]
+ using n=4
+ rectangles and left endpoints as the sample points.
+
+
+The value of this Left Riemann Sum is
+f(−1)Δx+f(−0.5)Δx+f(0)Δx+f(0.5)Δx,
+which equals
+e1(0.5)+e0.5(0.5)+e0(0.5)+e−0.5(0.5)≈2.987.
+
+
+
+
+example 6 Find the Riemann Sum for the curve f(x)=e−x
+ over the interval [−1,1]
+ using n=4
+ rectangles and right endpoints as the sample points.
+
+The value of this Right Riemann Sum is
+f(−0.5)Δx+f(0)Δx+f(0.5)Δx+f(1)Δx,
+which equals
+e0.5(0.5)+e0(0.5)+e−0.5(0.5)+e−1(0.5)≈1.812.
+
+

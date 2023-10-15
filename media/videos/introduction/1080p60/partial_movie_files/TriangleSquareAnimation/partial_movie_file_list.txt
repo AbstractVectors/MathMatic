@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/manim/men-be-nice/media/videos/introduction/1080p60/partial_movie_files/TriangleSquareAnimation/3977891868_3741245626_223132457.mp4'
+file 'file:/manim/men-be-nice/media/videos/introduction/1080p60/partial_movie_files/TriangleSquareAnimation/2852726489_58647162_2313256535.mp4'
+file 'file:/manim/men-be-nice/media/videos/introduction/1080p60/partial_movie_files/TriangleSquareAnimation/2852726489_229896448_3792955483.mp4'
+file 'file:/manim/men-be-nice/media/videos/introduction/1080p60/partial_movie_files/TriangleSquareAnimation/2852726489_513115971_3549027894.mp4'
+file 'file:/manim/men-be-nice/media/videos/introduction/1080p60/partial_movie_files/TriangleSquareAnimation/2852726489_229896448_1499002889.mp4'

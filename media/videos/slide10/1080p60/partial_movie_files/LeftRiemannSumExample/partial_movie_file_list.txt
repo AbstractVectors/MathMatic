@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/manimuser/men-be-nice/media/videos/slide10/1080p60/partial_movie_files/LeftRiemannSumExample/3977891868_982671288_223132457.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/slide10/1080p60/partial_movie_files/LeftRiemannSumExample/2852726489_2999291583_1735834246.mp4'

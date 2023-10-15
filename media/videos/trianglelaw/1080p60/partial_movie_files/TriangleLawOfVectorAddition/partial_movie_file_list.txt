@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/manim/men-be-nice/media/videos/trianglelaw/1080p60/partial_movie_files/TriangleLawOfVectorAddition/3977891868_29354901_223132457.mp4'
+file 'file:/manim/men-be-nice/media/videos/trianglelaw/1080p60/partial_movie_files/TriangleLawOfVectorAddition/2852726489_4165718052_2701624881.mp4'
+file 'file:/manim/men-be-nice/media/videos/trianglelaw/1080p60/partial_movie_files/TriangleLawOfVectorAddition/2852726489_475830058_499970722.mp4'
+file 'file:/manim/men-be-nice/media/videos/trianglelaw/1080p60/partial_movie_files/TriangleLawOfVectorAddition/2852726489_2886460829_3299163071.mp4'
+file 'file:/manim/men-be-nice/media/videos/trianglelaw/1080p60/partial_movie_files/TriangleLawOfVectorAddition/2852726489_3625428010_3413960436.mp4'

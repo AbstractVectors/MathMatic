@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/manimuser/men-be-nice/media/videos/scene2/480p15/partial_movie_files/TangentLineVisualization/1185818338_4070346915_223132457.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene2/480p15/partial_movie_files/TangentLineVisualization/624642324_3055161018_1168556085.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene2/480p15/partial_movie_files/TangentLineVisualization/624642324_1310969723_1377601925.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene2/480p15/partial_movie_files/TangentLineVisualization/624642324_229896448_3630366791.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene2/480p15/partial_movie_files/TangentLineVisualization/624642324_3025233851_2221646859.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene2/480p15/partial_movie_files/TangentLineVisualization/624642324_2659151065_3643334349.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/scene2/480p15/partial_movie_files/TangentLineVisualization/624642324_2999291583_4096475229.mp4'

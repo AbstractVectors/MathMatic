@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/manimuser/men-be-nice/media/videos/span/1080p60/partial_movie_files/SpanExplanation/3977891868_3801455940_223132457.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/span/1080p60/partial_movie_files/SpanExplanation/2852726489_589243813_1984711705.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/span/1080p60/partial_movie_files/SpanExplanation/2852726489_2999291583_4081355937.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/span/1080p60/partial_movie_files/SpanExplanation/2852726489_397869928_1398102007.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/span/1080p60/partial_movie_files/SpanExplanation/2852726489_3220761835_4131132508.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/span/1080p60/partial_movie_files/SpanExplanation/2852726489_1943627556_2286494626.mp4'
+file 'file:/home/manimuser/men-be-nice/media/videos/span/1080p60/partial_movie_files/SpanExplanation/2852726489_2999291583_1874937059.mp4'

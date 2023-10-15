@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/manim/men-be-nice/media/videos/cofactor/1080p60/partial_movie_files/MatrixOperation/3977891868_3969807145_223132457.mp4'
+file 'file:/manim/men-be-nice/media/videos/cofactor/1080p60/partial_movie_files/MatrixOperation/2852726489_417155249_2465080462.mp4'
+file 'file:/manim/men-be-nice/media/videos/cofactor/1080p60/partial_movie_files/MatrixOperation/2852726489_229896448_3067210507.mp4'
+file 'file:/manim/men-be-nice/media/videos/cofactor/1080p60/partial_movie_files/MatrixOperation/2852726489_3621939188_3071004670.mp4'
+file 'file:/manim/men-be-nice/media/videos/cofactor/1080p60/partial_movie_files/MatrixOperation/2852726489_2999291583_2861452031.mp4'
+file 'file:/manim/men-be-nice/media/videos/cofactor/1080p60/partial_movie_files/MatrixOperation/2852726489_3200642008_3673305131.mp4'
