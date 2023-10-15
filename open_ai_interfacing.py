@@ -1,6 +1,9 @@
 import openai
+import os
+from dotenv import load_dotenv
 
-openai.api_key = "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"
+load_dotenv(dotenv_path="settings.env")
+openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 
 def chat_gpt(prompt_text: str, conversation: list, privilage: str = 'user', conversation_level_tracker: dict=None, level: int=0):
